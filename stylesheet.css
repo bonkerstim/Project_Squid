@@ -1,24 +1,36 @@
-body {
-    background-color: gray;
+.navigation {
+    text-align: right;
+    margin: 0px;
+    height: 0px;
+}
+
+.navigation ul {
+    margin: 0;
+}
+
+.navigation li {
+    display: inline;
+}
+
+.btn {
+    height: 50px;
+    width: 150px;
+    position: relative;
+    top: 10px;
+    margin-right: 10px;
+
 }
 
 #header_image {
     width: 100%;
 }
 
+#footer_image {
+    width: 100%;
+    height: 200px;
+}
+
 .container-fluid {
     padding: 0px;
 }
 
-/*
-.hero {
-    background-image: url(https://cloud.githubusercontent.com/assets/20879982/23391858/aa90fd14-fd2c-11e6-9ad8-0141454b3c00.png);
-    background-size: cover;
-    position: relative;
-    top: -30px;
-    height: 105vh;
-    width: 100%;
-    margin: 0px;
-    border: 1px solid black;
-}
-*/
