@@ -1,0 +1,24 @@
+body {
+    background-color: gray;
+}
+
+#header_image {
+    width: 100%;
+}
+
+.container-fluid {
+    padding: 0px;
+}
+
+/*
+.hero {
+    background-image: url(https://cloud.githubusercontent.com/assets/20879982/23391858/aa90fd14-fd2c-11e6-9ad8-0141454b3c00.png);
+    background-size: cover;
+    position: relative;
+    top: -30px;
+    height: 105vh;
+    width: 100%;
+    margin: 0px;
+    border: 1px solid black;
+}
+*/
